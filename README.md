@@ -3,28 +3,19 @@
 
 ### About me
 I am a web developer (currently in the last year of high school) and the main languages that I work are:
-<table>
-  <tr>
-    <td>
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    </td>
-    <td>
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    </td>
-    <td>
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    </td>
-    <td>
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    </td>
-    <td>
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
 
 ### I also have Knowledge in
+<div>
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</div>
 
 ### Goals
 - I am looking to collaborate on projects that challenge my knowledge and make me grow
@@ -35,25 +26,13 @@ I am a web developer (currently in the last year of high school) and the main la
     
 ### Curiosities
 I am a 2D animator in my spare time, and the tools that i use are:
-<table>
-  <tr>
-    <td>
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />          
-    </td>
-    <td>
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-    </td>
-    <td>
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-    </td>
-    <td>
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />          
-    </td>
-    <td>
-      <img width="40px" heihgt="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />          
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />  
+  <img width="40px" heihgt="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+</div>
 
 ### Take a look at my statistics
 <div>
