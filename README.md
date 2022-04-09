@@ -15,7 +15,7 @@
 #### Curiosities
 - I am a 2D animator in my spare time
 
-### Look at my statistics
+#### Take a look at my statistics
 <div>
 <a href="https://github.com/seu-usuário-aqui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assodepicche&layout=compact&langs_count=7&theme=dracula"/>
