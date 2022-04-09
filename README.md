@@ -41,6 +41,9 @@ I am a 2D animator in my spare time, and the tools that i use are:
       <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />          
     </td>
     <td>
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+    </td>
+    <td>
       <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
     </td>
     <td>
