@@ -2,7 +2,7 @@
 <h3>My name is Samuel, AKA assodepicche</h3>
 
 ### About me
-I am a web developer (currently in the last year of high school) and the main languages I use are:
+I am a web developer (currently in the last year of high school) and the main languages that I work are:
 <table>
   <tr>
     <td>
@@ -34,14 +34,20 @@ I am a web developer (currently in the last year of high school) and the main la
 - hello.assodepicche@gmail.com **(contact me only to talk about work)**
     
 ### Curiosities
-I am a 2D animator in my spare time
+I am a 2D animator in my spare time, and the tools that i use are:
 <table>
   <tr>
+    <td>
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />          
+    </td>
     <td>
       <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
     </td>
     <td>
       <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />          
+    </td>
+    <td>
+      <img width="40px" heihgt="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
     </td>
   </tr>
 </table>
