@@ -1,5 +1,5 @@
-# Hello There! Welcome to my Github profile
-## My name is Samuel, AKA assodepicche
+<h1>Hello There! Welcome to my Github profile</h1>
+<h3>My name is Samuel, AKA assodepicche</h3>
 
 ### About me
 - I am a web developer, the main languages and technologies I use are PHP, SQL, JavaScript, HTML and CSS
@@ -18,5 +18,6 @@
 ### Take a look at my statistics
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assodepicche&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assodepicche&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=assodepicche&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
