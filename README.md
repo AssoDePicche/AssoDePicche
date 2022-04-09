@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello There! Welcome to my Github profile
+### My name is Samuel, AKA assodepicche
 
-<!--
-**AssoDePicche/AssoDePicche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+- I am currently in the last year of high school
+- I am a web developer, the main languages and technologies I use are PHP, SQL, JavaScript, HTML and CSS
 
-Here are some ideas to get you started:
+#### Goals
+- I am looking to collaborate on projects that challenge my knowledge and make me grow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### How to get in touch with me
+- samuelprado730@gmail.com **(call me to talk about anything but work)**
+- hello.assodepicche@gmail.com **(contact me only to talk about work)**
+
+#### Curiosities
+- I am a 2D animator in my spare time
