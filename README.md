@@ -2,8 +2,8 @@
 ### My name is Samuel, AKA assodepicche
 
 #### About me
-- I am currently in the last year of high school
 - I am a web developer, the main languages and technologies I use are PHP, SQL, JavaScript, HTML and CSS
+- Currently in the last year of high school
 
 #### Goals
 - I am looking to collaborate on projects that challenge my knowledge and make me grow
