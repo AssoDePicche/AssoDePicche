@@ -36,7 +36,7 @@ I am a 2D animator in my spare time, the tools that i use are:
 
 ### Take a look at my statistics
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assodepicche&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=assodepicche&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/assodepicche">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assodepicche&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
