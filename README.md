@@ -1,5 +1,4 @@
-<h1>Hello There! Welcome to my Github profile</h1>
-<h3>My name is Samuel, AKA assodepicche</h3>
+## Hello There! Welcome to my Github profile
 
 ### About me
 I am a web developer (currently in the last year of high school) and the main technologies and tools that I work are:
@@ -17,13 +16,16 @@ I am a web developer (currently in the last year of high school) and the main te
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" />
 </div>
 
-### Goals
-- I am looking to collaborate on projects that challenge my knowledge and make me grow
+## Detailed information
+
+* **Name:** Samuel do Prado Rodrigues
+* **Age:** 17
+* **Living in**: Santa Isabel - SP, Brazil
 
 ### How to get in touch with me
 - samuelprado730@gmail.com **(call me to talk about anything but work)**
 - hello.assodepicche@gmail.com **(contact me only to talk about work)**
-    
+
 ### Curiosities
 I am a 2D animator in my spare time, the tools that i use are:
 <div>
@@ -32,11 +34,4 @@ I am a 2D animator in my spare time, the tools that i use are:
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" />
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" />  
   <img width="40px" heihgt="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro" />
-</div>
-
-### Take a look at my statistics
-<div>
-  <a href="https://github.com/AssoDePicche">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assodepicche&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
 </div>
