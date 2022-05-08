@@ -20,7 +20,6 @@ I am a web developer (currently in the last year of high school) and the main te
 
 * **Name:** Samuel do Prado Rodrigues
 * **Age:** 17
-* **Living in**: Santa Isabel - SP, Brazil
 
 ### How to get in touch with me
 - samuelprado730@gmail.com **(call me to talk about anything but work)**
