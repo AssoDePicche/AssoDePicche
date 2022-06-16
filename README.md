@@ -18,7 +18,7 @@ I am a web developer (currently in the last year of high school) and the main te
 
 ## Detailed information
 
-* **Name:** Samuel do Prado Rodrigues
+* **Full Name:** Samuel do Prado Rodrigues
 
 ### How to get in touch with me
 - samuelprado730@gmail.com **(call me to talk about anything but work)**
