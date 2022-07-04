@@ -16,10 +16,6 @@ I am a web developer (currently in the last year of high school) and the main te
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" />
 </div>
 
-## Detailed information
-
-* **Full Name:** Samuel do Prado Rodrigues
-
 ### How to get in touch with me
 - samuelprado730@gmail.com **(call me to talk about anything but work)**
 - hello.assodepicche@gmail.com **(contact me only to talk about work)**
