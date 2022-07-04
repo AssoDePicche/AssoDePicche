@@ -3,7 +3,7 @@
 ### About me
 I am a fullstack web developer currently developing personal projects. The main technologies and tools that I work are:
 
-#### *Hover the mouse over the icons to see their names*
+*Hover the mouse over the icons to see their names*
 
 <div>
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
