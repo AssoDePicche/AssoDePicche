@@ -23,7 +23,7 @@ I'm a fullstack web developer currently developing personal projects. The main t
 - samuelprado730@gmail.com
 
 ### Curiosities
-I make 2D animations and graphic pieces in my spare time, the softwares that i use are:
+I make 2D animations and graphic pieces in my spare time, usually using the following programs:
 <div>
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" />          
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" />
