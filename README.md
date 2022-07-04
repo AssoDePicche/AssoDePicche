@@ -1,7 +1,7 @@
 ## Hello There! Welcome to my Github profile
 
 ### About me
-I am a fullstack web developer currently developing personal projects. The main technologies and tools that I work are:
+I'm a fullstack web developer currently developing personal projects. The main technologies and tools that I work are:
 
 *Hover the mouse over the icons to see their names*
 
@@ -23,7 +23,7 @@ I am a fullstack web developer currently developing personal projects. The main 
 - samuelprado730@gmail.com
 
 ### Curiosities
-I am a 2D animator in my spare time, the softwares that i use are:
+I make 2D animations and graphic pieces in my spare time, the softwares that i use are:
 <div>
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" />          
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" />
