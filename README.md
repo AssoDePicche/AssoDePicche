@@ -25,7 +25,7 @@ I am a web developer (currently in the last year of high school) and the main te
 - hello.assodepicche@gmail.com **(contact me only to talk about work)**
 
 ### Curiosities
-I am a 2D animator in my spare time, the tools that i use are:
+I am a 2D animator in my spare time, the softwares that i use are:
 <div>
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" />          
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" />
