@@ -1,7 +1,7 @@
 ## Hello There! Welcome to my Github profile
 
 ### About me
-I am a web developer (currently in the last year of high school) and the main technologies and tools that I work are:
+I am a web developer (currently in the last year of high school) and the main technologies and tools that I work are (hover the mouse over the icons to see their names):
 <div>
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
