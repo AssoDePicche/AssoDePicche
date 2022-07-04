@@ -17,8 +17,7 @@ I am a web developer (currently in the last year of high school) and the main te
 </div>
 
 ### How to get in touch with me
-- samuelprado730@gmail.com **(call me to talk about anything but work)**
-- hello.assodepicche@gmail.com **(contact me only to talk about work)**
+- samuelprado730@gmail.com
 
 ### Curiosities
 I am a 2D animator in my spare time, the softwares that i use are:
