@@ -1,4 +1,4 @@
-## Hello There! Welcome to my Github profile
+# Hello There!
 
 ### About me
 I'm a fullstack web developer currently developing personal projects. The main technologies and tools that I work are:
