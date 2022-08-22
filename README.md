@@ -1,7 +1,7 @@
 # Hello There!
 
 ### About me
-I'm backend web developer currently developing personal projects. The main technologies and tools that I work are:
+I'm backend web developer currently developing personal projects. The main technologies that I work are:
 
 *Hover the mouse over the icons to see their names*
 
