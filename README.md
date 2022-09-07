@@ -21,9 +21,6 @@ I'm backend web developer currently working in personal projects. The main techn
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
 </div>
 
-### How to get in touch with me
-- samuelprado730@gmail.com
-
 ### Curiosities
 I make 2D animations and graphic pieces in my spare time, usually using the following programs:
 <div>
