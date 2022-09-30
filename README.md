@@ -1,9 +1,6 @@
 # Hello There!
 
-### About me
 I'm backend web developer currently working in personal projects. The main technologies that I work are:
-
-*Hover the mouse over the icons to see their names*
 
 <div>
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" />
@@ -13,6 +10,8 @@ I'm backend web developer currently working in personal projects. The main techn
     <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
 </div>
+
+*Hover the mouse over the icons to see their names*
 
 ### I also have Knowledge in
 <div>
