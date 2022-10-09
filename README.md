@@ -1,4 +1,4 @@
-# Hello There!
+# Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px" height="36px">
 
 I'm a backend web developer currently working in personal projects. The main technologies that I work are:
 
