@@ -1,4 +1,4 @@
-# Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px" height="36px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px" height="36px"> Hello There!
 
 I'm a backend web developer currently working in personal projects. The main technologies that I work are:
 
@@ -13,7 +13,7 @@ I'm a backend web developer currently working in personal projects. The main tec
 
 *Hover the mouse over the icons to see their names*
 
-### I also have Knowledge in
+### <img width="20px" height="20px" src="https://media.giphy.com/media/njON3jEmTYHEfRbfsk/giphy.gif"> I also have Knowledge in
 <div>
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" />
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" />
@@ -28,5 +28,6 @@ I make 2D animations and graphic pieces in my spare time, usually using the foll
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" />
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" />
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" />  
-  <img width="40px" heihgt="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro" />
+  <img width="60px" height="60px" src="https://media.giphy.com/media/YrBidlMIUKks6gDBIx/giphy.gif"> 
 </div>
