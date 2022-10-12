@@ -21,7 +21,7 @@ I'm a backend web developer currently working in personal projects. The main tec
 </div>
 
 ### Curiosities <img width="40px" src="https://media.giphy.com/media/5xaOcLO6z2g5Fq933B6/giphy.gif">
-I also make 2D animations and graphic pieces in my spare time, usually using the following programs:
+I also make 2D animations and graphic pieces in my spare time, usually with the following programs:
 <div>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" />          
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" />
