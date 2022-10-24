@@ -1,4 +1,4 @@
-# Hello There! <img width="40px" src="https://media.giphy.com/media/WRctba6gF7qXUQv5j7/giphy.gif">
+# Hello There!
 
 I'm a backend web developer currently working in personal projects. The main technologies that I work are: 
 
@@ -9,7 +9,6 @@ I'm a backend web developer currently working in personal projects. The main tec
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
-  <img width="40px" src="https://media.giphy.com/media/oQwFFMo529AuJ2Ngsv/giphy.gif">
 </div>
 
 ### I also have Knowledge in
@@ -20,7 +19,7 @@ I'm a backend web developer currently working in personal projects. The main tec
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
 </div>
 
-### Curiosities <img width="40px" src="https://media.giphy.com/media/5xaOcLO6z2g5Fq933B6/giphy.gif">
+### Curiosities
 I also make 2D animations and graphic pieces in my spare time, usually with the following programs:
 <div>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" />          
@@ -28,5 +27,4 @@ I also make 2D animations and graphic pieces in my spare time, usually with the 
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" />  
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro" />
-  <img width="60px" src="https://media.giphy.com/media/YrBidlMIUKks6gDBIx/giphy.gif"> 
 </div>
