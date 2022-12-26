@@ -1,6 +1,6 @@
 # Hello There!
 
-I'm a backend web developer currently working in personal projects. The main technologies that I work are: 
+I'm a software developer currently working in personal projects. The main technologies that I work are: 
 
 <div>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" />
