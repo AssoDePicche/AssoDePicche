@@ -4,9 +4,7 @@
 
 I'm a software developer currently working in personal projects. The main technologies that I work are:
 
----
-
-### Tools
+## Tools
 
 <div>
   <img width="36px" style="padding-right: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
@@ -19,7 +17,9 @@ I'm a software developer currently working in personal projects. The main techno
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform">
 </div>
 
-### Curiosities
+---
+
+## Curiosities
 
 I also make 2D animations and graphic pieces in my spare time, usually with the following programs:
 
@@ -28,5 +28,6 @@ I also make 2D animations and graphic pieces in my spare time, usually with the 
   <img width="36px" style="padding-right: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator">
   <img width="36px" style="padding-right: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop">
   <img width="36px" style="padding-right: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects">  
-  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro">
+  <img width="36px" style="padding-right: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro">
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma">
 </div>
