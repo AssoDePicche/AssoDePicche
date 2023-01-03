@@ -17,8 +17,6 @@ I'm a software developer currently working in personal projects. The main techno
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform">
 </div>
 
----
-
 ## Curiosities
 
 I also make 2D animations and graphic pieces in my spare time, usually with the following programs:
