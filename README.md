@@ -1,4 +1,4 @@
-# AssoDePicche
+# Samuel do Prado Rodrigues (AssoDePicche)
 
 **`Software Developer`**
 
