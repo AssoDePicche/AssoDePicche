@@ -11,9 +11,6 @@ I believe that education is the key to change the world for the better, that's w
 
 The main technologies I work with are:
 
-
-## Tools
-
 <div>
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++">
