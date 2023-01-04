@@ -19,7 +19,11 @@ The main technologies I work with are:
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform">
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" >
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" title="Composer">
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache">
 </div>
 
 ## Curiosities
