@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Hello, World! I am a software developer, working on personal projects. I like to spend most of my time solving HackerRank
+Hello, there! I am a software developer, working on personal projects. I like to spend most of my time solving HackerRank
 challenges and studying programming.
 
 My passions are math, computing, music, movies, and comics (not necessarily in that order).
