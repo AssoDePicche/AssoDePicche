@@ -2,14 +2,11 @@
 
 **`Software Developer`**
 
-Hello, there! I am a software developer, working on personal projects. I like to spend most of my time solving HackerRank
-challenges and studying programming.
+Hello, I'm a software developer, who enjoys spending most of my time solving HackerRank challenges and studying computer science. My passions are math, computing, music, movies, and comics (not necessarily in that order).
 
-My passions are math, computing, music, movies, and comics (not necessarily in that order).
+I believe that technological progress should be at the service of human progress, since technology created and applied ethically can expand access to opportunity and equity. This motivates me to study continuously in order to use everything in my power to make the world a little better.
 
-I believe that education is the key to change the world for the better, that's why I dedicate myself to create things that help people.
-
-The main technologies I work with are:
+## I have knowledge in
 
 <div>
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
