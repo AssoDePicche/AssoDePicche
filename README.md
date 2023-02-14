@@ -1,8 +1,6 @@
 # Samuel do Prado Rodrigues
 
-**`Software Developer`**
-
-Hello, I'm a software developer, who enjoys spending most of my time solving HackerRank challenges and studying computer science. My passions are math, computing, music, movies, and comics (not necessarily in that order).
+**`Software Engineer`**
 
 I believe that technological progress should be at the service of human progress, since technology created and applied ethically can expand access to opportunity and equity. This motivates me to study continuously in order to use everything in my power to make the world a little better.
 
