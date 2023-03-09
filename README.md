@@ -22,6 +22,8 @@ I believe that technological progress should be at the service of humanity, this
 
 ## Get in Touch
 
+Want to talk to me? Get in touch
+
 <div>
   <a href="https://www.linkedin.com/in/samuel-do-prado/">
     <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn">
