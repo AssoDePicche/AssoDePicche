@@ -2,7 +2,7 @@
 
 **`Software Engineer`** **`Control and Automation Engineer`**
 
-Technician in computer science for the Internet by ETEC, I am a student of Control and Automation Engineering at IFSP. I seek challenges that will enhance my technical and interpersonal skills while learning to deal with the adversities faced daily by a company in delivering its products. I have experience with PHP, Java, SQL, GCP, Git, TDD, SOLID, and Object Calisthenics.
+Technician in computer science for the Internet by ETEC and student of Control and Automation Engineering at IFSP, I have experience with PHP, Java, C/C++, MySQL, Google Cloud Platform, Git (with conventional commits pattern), Test-driven Development, SOLID principles, and Object Calisthenics.
 
 I believe that technological progress should be at the service of humanity, this motivates me to study continuously to use everything in my power to make the world a little better.
 
