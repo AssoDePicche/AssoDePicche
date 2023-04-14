@@ -21,6 +21,14 @@ I believe that technological progress should be at the service of humanity, this
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache">
 </div>
 
+## Currently learning
+
+<div>
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi">
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino">
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux">
+</div>
+
 ## Get in Touch
 
 Want to talk to me? Get in touch
