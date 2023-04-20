@@ -46,6 +46,12 @@ Want to talk to me? Get in touch
   </a>
 </div>
 
+## Oracle Next Education Challenges
+
+<div>
+  <img width="64px" src="./imgs/oracle-next-education-first-challenge.png" title="First Challenge">
+</div>
+
 ## Curiosities
 
 I also make 2D animations and graphic pieces in my spare time, usually with the following programs:
