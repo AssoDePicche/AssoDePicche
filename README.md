@@ -49,7 +49,9 @@ Want to talk to me? Get in touch
 ## Oracle Next Education Challenges
 
 <div>
-  <img width="64px" src="./imgs/oracle-next-education-first-challenge.png" title="First Challenge">
+  <a href="https://assodepicche.github.io/challenge-oracle-one/">
+    <img width="64px" src="./imgs/oracle-next-education-first-challenge.png" title="First Challenge">
+  </a>
 </div>
 
 ## Curiosities
