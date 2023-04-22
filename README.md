@@ -2,9 +2,9 @@
 
 **`Software Engineer`** **`Control and Automation Engineer`**
 
-Technician in computer science for the Internet by ETEC and student of Control and Automation Engineering at IFSP, I have experience with PHP, Java, C/C++, MySQL, Google Cloud Platform, Git (with conventional commits pattern), Test-driven Development, SOLID principles, and Object Calisthenics.
+Hello there! 👋 I'm a Control and Automation Engineering student at IFSP and a certified Technician in Computer Science for the Internet by ETEC. I'm passionate about using technology to make the world a better place, and I strive to continuously learn and improve my skills in programming and software development.
 
-I believe that technological progress should be at the service of humanity, this motivates me to study continuously to use everything in my power to make the world a little better.
+Feel free to explore my GitHub repositories, where I share my personal projects. Let's connect and collaborate to make a positive impact through technology!
 
 ## I have knowledge in
 
