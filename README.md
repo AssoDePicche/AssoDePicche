@@ -17,7 +17,9 @@ Feel free to explore my GitHub repositories, where I share my personal projects.
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
-  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform">
+  <a href="https://www.cloudskillsboost.google/public_profiles/a7c7053c-dbe2-4a75-82e5-472cf6519e54">
+    <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform">
+  </a>
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache">
 </div>
 
