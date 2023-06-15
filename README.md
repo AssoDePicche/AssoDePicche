@@ -66,3 +66,7 @@ I also make 2D animations and graphic pieces in my spare time, usually with the 
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Adobe Premiere Pro">
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender">
 </div>
+
+## Now on Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6flhz983p72i174tjdvshpnhs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6flhz983p72i174tjdvshpnhs&redirect=true)
