@@ -30,6 +30,7 @@ Feel free to explore my GitHub repositories, where I share my personal projects.
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino">
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux">
   <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV">
+  <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby">
 </div>
 
 ## Get in Touch
