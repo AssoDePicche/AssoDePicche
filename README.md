@@ -1,6 +1,6 @@
 # Samuel do Prado Rodrigues
 
-**`Software Engineer`** **`Control and Automation Engineer`**
+**`Software Engineer`** **`Control and Automation Engineer`** **Scholarship Holder**
 
 Hello there! 👋 I'm a Control and Automation Engineering student at IFSP and a certified Technician in Computer Science for the Internet by ETEC. I'm passionate about using technology to make the world a better place, and I strive to continuously learn and improve my skills in programming and software development.
 
