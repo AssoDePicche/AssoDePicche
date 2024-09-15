@@ -1,27 +1,25 @@
 # Samuel do Prado Rodrigues (AssoDePicche)
 
-Aluno de Engenharia de Computação (ex-aluno de Engenharia de Controle e Automação) no Instituto Federal de São Paulo (IFSP), técnico em Informática para Internet pelo Centro Estadual de Educação Tecnológica Paula Souza (ETEC). Atualmente atuo membro do Laboratório de Computação Aplicada (LABCOM3), onde trabalho no desenvolvimento de pesquisas acadêmicas voltadas à Redes Ópticas Elásticas e simulações computacionais. Também integro o Grupo de Estudos de Robótica e Sistemas Embarcados (GERSE), onde produzo conteúdos voltados à tecnologia, além de desenvolver robôs e sistemas de controle.
-
-Sou entusiasta em programação competitiva e gosto de solucionar desafios de sites como HackerRank e LeetCode.
+Aluno de Engenharia de Computação no Instituto Federal de São Paulo (IFSP), técnico em Informática para Internet pelo Centro Estadual de Educação Tecnológica Paula Souza (ETEC). Atua como membro do Laboratório de Computação Aplicada (LABCOM3) com bolsa PIBITI pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPQ) para o estudo algoritmos de aprendizado de máquina para a alocação de rota e espectro em redes ópticas elásticas, além de desenvolvimento de algoritmos de desfragmentação proativos e reativos de espectro. Também é membro do Grupo de Estudos de Robótica e Sistemas Embarcados (GERSE), onde estuda robôs móveis autônomos.
 
 ## Contato
 
-Fique à vontade para entrar em contato via e-mail (<samuelprado730@gmail.com>) ou nas redes sociais:
-
-- [Facebook](https://www.facebook.com/samuel.do.prado.rodrigues/)
-
-- [Instagram](https://www.instagram.com/assodepicche/)
-
-- [Linkedin](https://www.linkedin.com/in/samuel-do-prado-rodrigues/)
-
-- [Twitter](https://twitter.com/samuel_do_prado)
+Fique à vontade para entrar em contato via e-mail (<samuelprado730@gmail.com>) ou nas [redes sociais](https://assodepicche.github.io/AssoDePicche/).
 
 ## Ferramentas e Tecnologias
 
-- Banco de Dados: MySQL
-- Linguagens de Programação: 6057 Assembly, C, C++, Java, JavaScript, PHP, Python, Rust, TypeScript
-- Nuvem: Google Cloud Platform
-- Plataformas de Desenvolvimento: Arduino, ESP32, Raspberry Pi Pico
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+  <img align="center" height="30" width="40" src="" />
+</div>
 
 ## Pesquisas
 
