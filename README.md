@@ -25,4 +25,4 @@ Fique à vontade para entrar em contato via e-mail (<samuelprado730@gmail.com>) 
 
 ## Pesquisas
 
-- [Estudo de Algoritmos de Aprendizado de Máquina para a Alocação de Rota e Espectro em Redes Ópticas Elásticas](https://github.com/AssoDePicche/erlang-b)
+- [Estudo de Algoritmos de Aprendizado de Máquina para a Alocação de Rota e Espectro em Redes Ópticas Elásticas](https://github.com/AssoDePicche/elastic-optical-networks)
