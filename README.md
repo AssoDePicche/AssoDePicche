@@ -18,7 +18,6 @@ Fique à vontade para entrar em contato via e-mail (<samuelprado730@gmail.com>) 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
-  <img align="center" height="30" width="40" src="" />
 </div>
 
 ## Pesquisas
