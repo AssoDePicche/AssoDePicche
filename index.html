@@ -32,107 +32,33 @@
 
       <h3 class="title mb-3">Samuel do Prado Rodrigues</h3>
 
-      <section class="flex flex--column">
-        <a
-          href="https://lattes.cnpq.br/0506034609919899"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn flex flex--center mb-3"
-        >
-          CNPq
-          <i class="fa-regular fa-address-card"></i>
-        </a>
-
-        <a
-          href="https://www.facebook.com/samuel.do.prado.rodrigues/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn flex flex--center mb-3"
-        >
-          Facebook
-          <i class="fa-brands fa-facebook"></i>
-        </a>
-
-        <a
-          href="https://github.com/AssoDePicche"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn flex flex--center mb-3"
-        >
-          GitHub
-          <i class="fa-brands fa-github"></i>
-        </a>
-
-        <a
-          href="https://www.instagram.com/assodepicche/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn flex flex--center mb-3"
-        >
-          Instagram
-          <i class="fa-brands fa-instagram"></i>
-        </a>
-
-        <a
-          href="https://letterboxd.com/assodepicche/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn flex flex--center mb-3"
-        >
-          Letterboxd
-          <i class="fa-brands fa-letterboxd"></i>
-        </a>
-
-        <a
-          href="https://www.linkedin.com/in/samuel-do-prado-rodrigues/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn flex flex--center mb-3"
-        >
-          LinkedIn
-          <i class="fa-brands fa-linkedin"></i>
-        </a>
-
-        <a
-          href="https://www.researchgate.net/profile/Samuel-Rodrigues-26"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn flex flex--center mb-3"
-        >
-          ResearchGate
-          <i class="fa-brands fa-researchgate"></i>
-        </a>
-
-        <a
-          href="https://open.spotify.com/user/6flhz983p72i174tjdvshpnhs?si=268ddd24d3ad4bec"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn flex flex--center mb-3"
-        >
-          Spotify
-          <i class="fa-brands fa-spotify"></i>
-        </a>
-
-        <a
-          href="https://steamcommunity.com/id/assodepicche/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn flex flex--center mb-3"
-        >
-          Steam
-          <i class="fa-brands fa-steam"></i>
-        </a>
-
-        <a
-          href="https://twitter.com/samuel_do_prado"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn flex flex--center mb-3"
-        >
-          Twitter
-          <i class="fa-brands fa-x-twitter"></i>
-        </a>
-      </section>
+      <section class="flex flex--column"></section>
     </main>
+
+    <script type="module">
+      import { items } from './index.js';
+
+      const section = document.getElementsByTagName("section")[0];
+
+      items.forEach(item => {
+        let a = document.createElement("a");
+
+        a.classList = ['btn flex flex--center mb-3'];
+
+        a.target = "_blank";
+
+        a.rel = "noopener noreferrer";
+
+        a.href = item.href;
+
+        let i = document.createElement("i");
+
+        i.classList = [`${item.brand}`];
+
+        a.append(`${item.name}`, i);
+
+        section.append(a);
+      });
+    </script>
   </body>
 </html>
