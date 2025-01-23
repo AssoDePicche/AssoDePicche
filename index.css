@@ -6,8 +6,8 @@
 }
 
 :root {
-  --clr-main: #212529;
-  --clr-secondary: #adb5bd;
+  --color-main: #212529;
+  --color-secondary: #adb5bd;
   --font-family: 'Poppins', sans-serif;
 }
 
@@ -33,20 +33,23 @@ html {
 }
 
 body {
-  background-color: var(--clr-main);
-  color: var(--clr-secondary);
+  background-color: var(--color-main);
+  color: var(--color-secondary);
   font-family: var(--font-family);
   user-select: none;
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
+  width: 100%;
 }
 
 main {
   height: 100%;
   width: 100%;
+  padding: 2.4rem 0;
 }
 
 .avatar {
+  height: 160px;
+  width: 160px;
   border-radius: 50%;
 }
 
@@ -73,4 +76,19 @@ main {
 .btn i {
   font-size: 2rem;
   margin-left: auto;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1.6rem;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
 }
