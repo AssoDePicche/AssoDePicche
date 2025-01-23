@@ -26,8 +26,6 @@
         src="https://avatars.githubusercontent.com/u/86676526?v=4"
         alt="Samuel do Prado Rodrigues"
         class="avatar mb-3"
-        height="100px"
-        width="100px"
       />
 
       <h3 class="title mb-3">Samuel do Prado Rodrigues</h3>
@@ -36,29 +34,23 @@
     </main>
 
     <script type="module">
-      import { items } from './index.js';
+      import { items, prepareColumns } from './index.js';
 
       const section = document.getElementsByTagName("section")[0];
 
-      items.forEach(item => {
-        let a = document.createElement("a");
+      const columnsPerRow = 2;
 
-        a.classList = ['btn flex flex--center mb-3'];
+      for (let index = 0; index <= items.length - columnsPerRow; index += columnsPerRow) {
+        const row = document.createElement("div");
 
-        a.target = "_blank";
+        row.classList = ["row flex--center mb-3"];
 
-        a.rel = "noopener noreferrer";
+        const columns = prepareColumns(items, index, index + columnsPerRow);
 
-        a.href = item.href;
+        columns.forEach(column => row.append(column));
 
-        let i = document.createElement("i");
-
-        i.classList = [`${item.brand}`];
-
-        a.append(`${item.name}`, i);
-
-        section.append(a);
-      });
+        section.append(row);
+      }
     </script>
   </body>
 </html>
