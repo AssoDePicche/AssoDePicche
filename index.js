@@ -1,4 +1,4 @@
-export function prepareColumns(items, start, end) {
+function prepareColumns(items, start, end) {
   let columns = [];
 
   while (start < end) {

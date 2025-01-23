@@ -34,7 +34,41 @@
     </main>
 
     <script type="module">
-      import { items, prepareColumns } from './index.js';
+      import { items } from './index.js';
+
+      function prepareColumns(items, start, end) {
+        let columns = [];
+
+        while (start < end) {
+          const item = items[start];
+
+          let a = document.createElement("a");
+
+          a.classList = ['btn flex flex--center mb-3'];
+
+          a.target = "_blank";
+
+          a.rel = "noopener noreferrer";
+
+          a.href = item.href;
+
+          let i = document.createElement("i");
+
+          i.classList = [`${item.brand}`];
+
+          a.append(`${item.name}`, i);
+
+          let column = document.createElement("div");
+
+          column.append(a);
+
+          columns.push(column);
+
+          ++start;
+      }
+
+      return columns;
+    }
 
       const section = document.getElementsByTagName("section")[0];
 
