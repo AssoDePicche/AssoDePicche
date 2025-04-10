@@ -34,9 +34,9 @@ function prepareColumns(items, start, end) {
 
 export const items = [
   {
-    name: "CNPq",
-    href: "https://lattes.cnpq.br/0506034609919899",
-    brand: "fa-regular fa-address-card"
+    name: "Duolingo",
+    href: "https://www.duolingo.com/profile/assodipicche",
+    brand: "fa-solid fa-language"
   },
   {
     name: "Facebook",
@@ -52,6 +52,11 @@ export const items = [
     name: "Instagram",
     href: "https://www.instagram.com/assodepicche/",
     brand: "fa-brands fa-instagram"
+  },
+  {
+    name: "Lattes",
+    href: "https://lattes.cnpq.br/0506034609919899",
+    brand: "fa-regular fa-address-card"
   },
   {
     name: "Letterboxd",
