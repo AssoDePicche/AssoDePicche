@@ -87,5 +87,10 @@ export const items = [
     name: "Twitter",
     href: "https://twitter.com/samuel_do_prado",
     brand: "fa-brands fa-x-twitter",
+  },
+    {
+    name: "Youtube",
+    href: "https://www.youtube.com/channel/UC3rLLXS3YjUUT2uys4j4bPw",
+    brand: "fa-brands fa-youtube",
   }
 ];
