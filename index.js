@@ -34,9 +34,14 @@ function prepareColumns(items, start, end) {
 
 export const items = [
   {
+    name: "Chess",
+    href: "https://link.chess.com/friend/iGW3Wh",
+    brand: "fa-solid fa-chess"
+  },
+  {
     name: "Duolingo",
     href: "https://www.duolingo.com/profile/assodipicche",
-    brand: "fa-solid fa-language"
+    brand: "fa-solid fa-feather"
   },
   {
     name: "Facebook",
@@ -49,6 +54,16 @@ export const items = [
     brand: "fa-brands fa-github"
   },
   {
+    name: "GCP Skills Boost",
+    href: "https://www.cloudskillsboost.google/public_profiles/a7c7053c-dbe2-4a75-82e5-472cf6519e54",
+    brand: "fa-brands fa-google"
+  },
+  {
+    name: "HackerRank",
+    href: "https://www.hackerrank.com/profile/samuelprado730",
+    brand: "fa-brands fa-hackerrank"
+  },
+  {
     name: "Instagram",
     href: "https://www.instagram.com/assodepicche/",
     brand: "fa-brands fa-instagram"
@@ -56,12 +71,17 @@ export const items = [
   {
     name: "Lattes",
     href: "https://lattes.cnpq.br/0506034609919899",
-    brand: "fa-regular fa-address-card"
+    brand: "fa-solid fa-graduation-cap"
   },
   {
     name: "Letterboxd",
     href: "https://letterboxd.com/assodepicche/",
     brand: "fa-brands fa-letterboxd"
+  },
+  {
+    name: "LeetCode",
+    href: "https://leetcode.com/u/AssoDePicche/",
+    brand: "fa-solid fa-ranking-star"
   },
   {
     name: "LinkedIn",
